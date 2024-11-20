@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\source\\repos\\ApiAspNetCore6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0910862E-8BA2-4A9E-BC1F-FB04DFB8AA1A}|ApiAspNetCore6.csproj|c:\\users\\alex\\source\\repos\\apiaspnetcore6\\context\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0910862E-8BA2-4A9E-BC1F-FB04DFB8AA1A}|ApiAspNetCore6.csproj|solutionrelative:context\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0910862E-8BA2-4A9E-BC1F-FB04DFB8AA1A}|ApiAspNetCore6.csproj|c:\\users\\alex\\source\\repos\\apiaspnetcore6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0910862E-8BA2-4A9E-BC1F-FB04DFB8AA1A}|ApiAspNetCore6.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0910862E-8BA2-4A9E-BC1F-FB04DFB8AA1A}|ApiAspNetCore6.csproj|c:\\users\\alex\\source\\repos\\apiaspnetcore6\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0910862E-8BA2-4A9E-BC1F-FB04DFB8AA1A}|ApiAspNetCore6.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0910862E-8BA2-4A9E-BC1F-FB04DFB8AA1A}|ApiAspNetCore6.csproj|c:\\users\\alex\\source\\repos\\apiaspnetcore6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0910862E-8BA2-4A9E-BC1F-FB04DFB8AA1A}|ApiAspNetCore6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0910862E-8BA2-4A9E-BC1F-FB04DFB8AA1A}|ApiAspNetCore6.csproj|c:\\users\\alex\\source\\repos\\apiaspnetcore6\\controllers\\tbl_usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0910862E-8BA2-4A9E-BC1F-FB04DFB8AA1A}|ApiAspNetCore6.csproj|solutionrelative:controllers\\tbl_usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0910862E-8BA2-4A9E-BC1F-FB04DFB8AA1A}|ApiAspNetCore6.csproj|c:\\users\\alex\\source\\repos\\apiaspnetcore6\\models\\tbl_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0910862E-8BA2-4A9E-BC1F-FB04DFB8AA1A}|ApiAspNetCore6.csproj|solutionrelative:models\\tbl_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0910862E-8BA2-4A9E-BC1F-FB04DFB8AA1A}|ApiAspNetCore6.csproj|c:\\users\\alex\\source\\repos\\apiaspnetcore6\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0910862E-8BA2-4A9E-BC1F-FB04DFB8AA1A}|ApiAspNetCore6.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0910862E-8BA2-4A9E-BC1F-FB04DFB8AA1A}|ApiAspNetCore6.csproj|c:\\users\\alex\\source\\repos\\apiaspnetcore6\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0910862E-8BA2-4A9E-BC1F-FB04DFB8AA1A}|ApiAspNetCore6.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0910862E-8BA2-4A9E-BC1F-FB04DFB8AA1A}|ApiAspNetCore6.csproj|c:\\users\\alex\\source\\repos\\apiaspnetcore6\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0910862E-8BA2-4A9E-BC1F-FB04DFB8AA1A}|ApiAspNetCore6.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ApiAspNetCore6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ApiAspNetCore6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T02:19:58.256Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tbl_usuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ApiAspNetCore6\\Controllers\\tbl_usuariosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\tbl_usuariosController.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ApiAspNetCore6\\Controllers\\tbl_usuariosController.cs",
+              "RelativeToolTip": "Controllers\\tbl_usuariosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T03:39:25.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ApiAspNetCore6\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ApiAspNetCore6\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T02:50:16.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ApiAspNetCore6\\Context\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "Context\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ApiAspNetCore6\\Context\\MyDbContext.cs",
+              "RelativeToolTip": "Context\\MyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T02:42:05.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ApiAspNetCore6\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ApiAspNetCore6\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-10T02:21:30.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ApiAspNetCore6\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ApiAspNetCore6\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-10T02:20:27.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ApiAspNetCore6\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ApiAspNetCore6\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T02:06:06.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ApiAspNetCore6\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ApiAspNetCore6\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-10T02:57:14.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "tbl_usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ApiAspNetCore6\\Models\\tbl_usuario.cs",
+              "RelativeDocumentMoniker": "Models\\tbl_usuario.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ApiAspNetCore6\\Models\\tbl_usuario.cs",
+              "RelativeToolTip": "Models\\tbl_usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T03:34:49.947Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
